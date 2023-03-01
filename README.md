@@ -1,6 +1,6 @@
 # Casper Address Miner
 
-Also available in [JavaScript]() but I figured Rust would execute faster (but never tested it).
+Also available in [JavaScript](https://github.com/dylanireland/casper-address-miner) but I figured Rust would execute faster (but never tested it).
 
 Generates Casper Network-compatable account keypairs repeatedly until it finds one that has a certain character repeated a number of times in the beginning of the public key
 
