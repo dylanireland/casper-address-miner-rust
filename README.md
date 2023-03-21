@@ -6,7 +6,7 @@ Generates Casper Network-compatable account keypairs repeatedly until it finds o
 
 ## Run
 
-First, adjust the target character and desired length in [main.rs](https://github.com/dylanireland/casper-address-miner-rust/src/main.rs).
+First, adjust the target character and desired length in [main.rs](./src/main.rs).
 Note that each extra character multiplies the estimated execution time by 16 (public keys are in hexadecimal).
 
 ```bash
